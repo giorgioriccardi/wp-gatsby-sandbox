@@ -4,7 +4,7 @@ Demo: https://gatsby-starter-wordpress-community.netlify.com/
 
 ## Use it now
 
-    gatsby new NAME https://github.com/pablovila/gatsby-starter-wordpress-community
+    gatsby new lds-wp-gatsby-demo https://github.com/giorgioriccardi/wp-gatsby-sandbox
 
 - Edit `gatsby-config.js`, change `baseUrl`
 
